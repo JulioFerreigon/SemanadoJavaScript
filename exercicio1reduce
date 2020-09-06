@@ -17,4 +17,4 @@ const rogerScore = phaseScores.reduce((accumulator, phaseScores) => {
     }
 
     return accumulator
-}, 0)
+}, 0);
